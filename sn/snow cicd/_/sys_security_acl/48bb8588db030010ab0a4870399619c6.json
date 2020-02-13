@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_339650_snow_cicd_table",
+  "name": "x_339650_snow_cicd_table",
+  "operation": "read",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-02-13 19:37:30",
+  "sys_id": "48bb8588db030010ab0a4870399619c6",
+  "sys_mod_count": 0,
+  "sys_name": "x_339650_snow_cicd_table",
+  "sys_package": "2fab0588db030010ab0a487039961921",
+  "sys_policy": null,
+  "sys_scope": "2fab0588db030010ab0a487039961921",
+  "sys_update_name": "sys_security_acl_48bb8588db030010ab0a4870399619c6",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-02-13 19:37:30",
+  "type": "record"
+}

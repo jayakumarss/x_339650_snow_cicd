@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "snow cicd Table",
+  "language": "en",
+  "name": "x_339650_snow_cicd_table",
+  "plural": "snow cicd Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-02-13 19:37:31",
+  "sys_id": "d0bbc588db030010ab0a48703996191d",
+  "sys_mod_count": 0,
+  "sys_name": "snow cicd Table",
+  "sys_package": "2fab0588db030010ab0a487039961921",
+  "sys_policy": null,
+  "sys_scope": "2fab0588db030010ab0a487039961921",
+  "sys_update_name": "sys_documentation_x_339650_snow_cicd_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-02-13 19:37:31",
+  "url": null,
+  "url_target": null
+}
